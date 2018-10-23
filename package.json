@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rodrigolim/Curso_node.git"
+    "url": "git+https://github.com/rodrigolim/API_Noticias.git"
   },
   "author": "Rodrigo de Lima Cunha",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rodrigolim/Curso_node/issues"
+    "url": "https://github.com/rodrigolim/API_Noticias/issues"
   },
-  "homepage": "https://github.com/rodrigolim/Curso_node#readme",
+  "homepage": "https://github.com/rodrigolim/API_Noticias#readme",
   "dependencies": {
     "ejs": "^2.6.1",
     "express": "^4.16.4",
