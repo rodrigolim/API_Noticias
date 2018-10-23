@@ -11,5 +11,6 @@ API para publicação de notícias
 * [Nodemon](https://nodemon.io/)
 * [Express](https://expressjs.com/)
 * Editor de texto. Recomendo o [VSCode](https://code.visualstudio.com/)
+* Banco de Dados Utilizado [PostgreSQL] (https://www.postgresql.org/) 
 
 

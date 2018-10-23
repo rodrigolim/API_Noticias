@@ -1,0 +1,24 @@
+{
+  "name": "portal_noticias",
+  "version": "1.0.0",
+  "description": "Site de noticias",
+  "main": "noticias.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigolim/Curso_node.git"
+  },
+  "author": "Rodrigo de Lima Cunha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodrigolim/Curso_node/issues"
+  },
+  "homepage": "https://github.com/rodrigolim/Curso_node#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "pg": "^7.5.0"
+  }
+}
