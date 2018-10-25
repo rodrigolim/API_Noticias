@@ -10,6 +10,8 @@ API para publicação de notícias
 * [Git Client](https://git-scm.com/downloads)
 * [Nodemon](https://nodemon.io/)
 * [Express](https://expressjs.com/)
+* [consign](https://www.npmjs.com/package/consign)
+* [body-parser](https://www.npmjs.com/package/body-parser)
 * Editor de texto. Recomendo o [VSCode](https://code.visualstudio.com/)
 * Banco de Dados Utilizado [PostgreSQL](https://www.postgresql.org/) 
 
