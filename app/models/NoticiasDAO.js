@@ -16,6 +16,10 @@ NoticiasDAO.prototype.salvarNoticias = function(ArrayDados, callBack){
                      callBack);
 }
 
+NoticiasDAO.prototype.get5UltimasNoticias = function(callBack){
+    this._connection.query('select * from noticias order by data_criacao desc limit 5', callBack);
+}
+
 module.exports = function(){
     return NoticiasDAO;
 }
