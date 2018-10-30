@@ -1,4 +1,4 @@
-# API Notícias
+# Portal de Notícias
 API para publicação de notícias
 
 ## Começando...
@@ -10,6 +10,7 @@ API para publicação de notícias
 * [Git Client](https://git-scm.com/downloads)
 * [Nodemon](https://nodemon.io/)
 * [Express](https://expressjs.com/)
+* [express-validator](https://www.npmjs.com/package/express-validator)
 * [consign](https://www.npmjs.com/package/consign)
 * [body-parser](https://www.npmjs.com/package/body-parser)
 * Editor de texto. Recomendo o [VSCode](https://code.visualstudio.com/)
